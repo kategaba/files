@@ -1,0 +1,532 @@
+// 20210721161903
+
+{
+    "defaults": {
+      "units": "mm",
+      "page": {
+        "size": {
+          "width": 216,
+          "height": 279
+        },
+        "margin": {
+          "top": 0,
+          "bottom": 0,
+          "left": 0,
+          "right": 0
+        }
+      }
+    },
+    "assets": {
+      "file": {
+        "url": "https://www.americanexpress.com/content/dam/amex/us/staticassets/pdf/GCO/Test_PDF.pdf"
+      },
+      "mark1": {
+        "url": "https://oneflow-file-core-api-dev-new-eu-west-1.s3.eu-west-1.amazonaws.com/5d66bfac-e3e5-451c-9b15-aaad4d0ba205?AWSAccessKeyId=AKIAJXKUBB3FVPIZFSRA&Expires=1919168863&Signature=nasFq8icXtUnlJOv%2FeltDq7SrCw%3D&response-content-disposition=attachment%3B%20filename%3D%22Winter-Tiger-Wild-Cat-Images.jpg%22"
+      }
+    },
+    "pages": [
+      {
+        "size": {
+          "width": 299.9994,
+          "height": 440.00419999999997
+        },
+        "margin": {
+          "top": 0,
+          "bottom": 0,
+          "left": 0,
+          "right": 0
+        },
+        "elements": [
+          {
+            "type": "asset",
+            "elementId": "side-0-slot-0",
+            "asset": "file",
+            "page": 0,
+            "top": 0,
+            "left": 0,
+            "placement": "CC",
+            "rotation": 0,
+            "width": 299.9994,
+            "height": 440.00419999999997,
+            "bleed": {
+              "top": 5.0038,
+              "right": 5.0038,
+              "bottom": 5.0038,
+              "left": 5.0038
+            },
+            "cropSlots": true,
+            "honorPdfPageRotation": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "fit": "none",
+            "boxes": {
+              "mediaBox": {
+                "top": 80.3021,
+                "left": 42.04969999999999,
+                "bottom": 359.7021,
+                "right": 257.9497
+              },
+              "trimBox": {
+                "top": 85.3059,
+                "left": 47.053499999999985,
+                "bottom": 354.69829999999996,
+                "right": 252.9459
+              }
+            },
+            "sourceRotation": 0
+          },
+          {
+            "elementId": "side-0-slot-0-mark-leftTop",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 44.056299999999986,
+            "y1": 85.30590000000001,
+            "x2": 39.05249999999999,
+            "y2": 85.30590000000001
+          },
+          {
+            "elementId": "side-0-slot-0-mark-leftTop",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 47.053499999999985,
+            "y1": 82.3087,
+            "x2": 47.053499999999985,
+            "y2": 77.3049
+          },
+          {
+            "elementId": "side-0-slot-0-mark-rightTop",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 255.9431,
+            "y1": 85.30590000000001,
+            "x2": 260.94689999999997,
+            "y2": 85.30590000000001
+          },
+          {
+            "elementId": "side-0-slot-0-mark-rightTop",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 252.9459,
+            "y1": 82.3087,
+            "x2": 252.9459,
+            "y2": 77.3049
+          },
+          {
+            "elementId": "side-0-slot-0-mark-rightBottom",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 255.9431,
+            "y1": 354.69829999999996,
+            "x2": 260.94689999999997,
+            "y2": 354.69829999999996
+          },
+          {
+            "elementId": "side-0-slot-0-mark-rightBottom",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 252.9459,
+            "y1": 357.6955,
+            "x2": 252.9459,
+            "y2": 362.69929999999994
+          },
+          {
+            "elementId": "side-0-slot-0-mark-leftBottom",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 44.056299999999986,
+            "y1": 354.69829999999996,
+            "x2": 39.05249999999999,
+            "y2": 354.69829999999996
+          },
+          {
+            "elementId": "side-0-slot-0-mark-leftBottom",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 47.053499999999985,
+            "y1": 357.6955,
+            "x2": 47.053499999999985,
+            "y2": 362.69929999999994
+          },
+          {
+            "id": "mark0",
+            "type": "rectangle",
+            "x": 150,
+            "y": 0,
+            "width": 10,
+            "height": 10,
+            "rotation": 0,
+            "rotationPoint": "CC",
+            "fillColor": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "id": "mark1",
+            "type": "asset",
+            "x": 139.9997,
+            "y": 210.00209999999998,
+            "width": 20,
+            "height": 20,
+            "rotation": 0,
+            "rotationPoint": "CC",
+            "fit": "contain",
+            "placement": "CC",
+            "asset": "mark1"
+          },
+          {
+            "id": "mark2",
+            "type": "text",
+            "x": -45.999,
+            "y": 62.001,
+            "width": 120,
+            "height": 120,
+            "rotation": 270,
+            "rotationPoint": "CC",
+            "fontSize": null,
+            "font": "Roboto",
+            "textAlign": "left",
+            "text": "Hola123",
+            "fillColor": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "id": "mark3",
+            "type": "barcode",
+            "x": 144.9997,
+            "y": 430.00419999999997,
+            "width": 10,
+            "height": 10,
+            "rotation": 0,
+            "rotationPoint": "CC",
+            "backgroundColour": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "barcodeType": "qrcode",
+            "includeText": true,
+            "fontSize": null,
+            "barcodeValue": "Hola456",
+            "barcodeColour": [
+              0,
+              0,
+              0,
+              1
+            ],
+            "verticalPadding": 0,
+            "horizontalPadding": 0
+          },
+          {
+            "id": "mark4",
+            "type": "path",
+            "x": 259.9944,
+            "y": 389.99159999999995,
+            "rotation": 0,
+            "rotationPoint": "CC",
+            "fillColor": [
+              0,
+              1,
+              0,
+              0
+            ],
+            "strokeColor": "none",
+            "path": "M0 0 L10.0076 0 L10.0076 10.0076 L9.206992 10.0076 L9.206992 0.800608 L0 0.800608 Z"
+          },
+          {
+            "id": "mark5",
+            "type": "rectangle",
+            "x": 264.5918,
+            "y": 214.99829999999997,
+            "width": 10.0076,
+            "height": 10.0076,
+            "rotation": 0,
+            "rotationPoint": "CC",
+            "fillColor": [
+              0,
+              1,
+              0,
+              0
+            ]
+          }
+        ],
+        "placementHash": {
+          
+        }
+      },
+      {
+        "size": {
+          "width": 299.9994,
+          "height": 440.00419999999997
+        },
+        "margin": {
+          "top": 0,
+          "bottom": 0,
+          "left": 0,
+          "right": 0
+        },
+        "elements": [
+          {
+            "type": "asset",
+            "elementId": "side-0-slot-0",
+            "asset": "file",
+            "page": 1,
+            "top": 0,
+            "left": 0,
+            "placement": "CC",
+            "rotation": 0,
+            "width": 299.9994,
+            "height": 440.00419999999997,
+            "bleed": {
+              "top": 5.0038,
+              "right": 5.0038,
+              "bottom": 5.0038,
+              "left": 5.0038
+            },
+            "cropSlots": true,
+            "honorPdfPageRotation": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "fit": "none",
+            "boxes": {
+              "mediaBox": {
+                "top": 80.3021,
+                "left": 42.04969999999999,
+                "bottom": 359.7021,
+                "right": 257.9497
+              },
+              "trimBox": {
+                "top": 85.3059,
+                "left": 47.053499999999985,
+                "bottom": 354.69829999999996,
+                "right": 252.9459
+              }
+            },
+            "sourceRotation": 0
+          },
+          {
+            "elementId": "side-0-slot-0-mark-leftTop",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 44.056299999999986,
+            "y1": 85.30590000000001,
+            "x2": 39.05249999999999,
+            "y2": 85.30590000000001
+          },
+          {
+            "elementId": "side-0-slot-0-mark-leftTop",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 47.053499999999985,
+            "y1": 82.3087,
+            "x2": 47.053499999999985,
+            "y2": 77.3049
+          },
+          {
+            "elementId": "side-0-slot-0-mark-rightTop",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 255.9431,
+            "y1": 85.30590000000001,
+            "x2": 260.94689999999997,
+            "y2": 85.30590000000001
+          },
+          {
+            "elementId": "side-0-slot-0-mark-rightTop",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 252.9459,
+            "y1": 82.3087,
+            "x2": 252.9459,
+            "y2": 77.3049
+          },
+          {
+            "elementId": "side-0-slot-0-mark-rightBottom",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 255.9431,
+            "y1": 354.69829999999996,
+            "x2": 260.94689999999997,
+            "y2": 354.69829999999996
+          },
+          {
+            "elementId": "side-0-slot-0-mark-rightBottom",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 252.9459,
+            "y1": 357.6955,
+            "x2": 252.9459,
+            "y2": 362.69929999999994
+          },
+          {
+            "elementId": "side-0-slot-0-mark-leftBottom",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 44.056299999999986,
+            "y1": 354.69829999999996,
+            "x2": 39.05249999999999,
+            "y2": 354.69829999999996
+          },
+          {
+            "elementId": "side-0-slot-0-mark-leftBottom",
+            "type": "line",
+            "strokeWidth": 0.176388889,
+            "strokeColor": "black",
+            "dashed": false,
+            "x1": 47.053499999999985,
+            "y1": 357.6955,
+            "x2": 47.053499999999985,
+            "y2": 362.69929999999994
+          },
+          {
+            "id": "mark0",
+            "type": "rectangle",
+            "x": 150,
+            "y": 0,
+            "width": 10,
+            "height": 10,
+            "rotation": 0,
+            "rotationPoint": "CC",
+            "fillColor": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "id": "mark1",
+            "type": "asset",
+            "x": 139.9997,
+            "y": 210.00209999999998,
+            "width": 20,
+            "height": 20,
+            "rotation": 0,
+            "rotationPoint": "CC",
+            "fit": "contain",
+            "placement": "CC",
+            "asset": "mark1"
+          },
+          {
+            "id": "mark2",
+            "type": "text",
+            "x": -45.999,
+            "y": 62.001,
+            "width": 120,
+            "height": 120,
+            "rotation": 270,
+            "rotationPoint": "CC",
+            "fontSize": null,
+            "font": "Roboto",
+            "textAlign": "left",
+            "text": "Hola123",
+            "fillColor": [
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "id": "mark3",
+            "type": "barcode",
+            "x": 144.9997,
+            "y": 430.00419999999997,
+            "width": 10,
+            "height": 10,
+            "rotation": 0,
+            "rotationPoint": "CC",
+            "backgroundColour": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "barcodeType": "qrcode",
+            "includeText": true,
+            "fontSize": null,
+            "barcodeValue": "Hola456",
+            "barcodeColour": [
+              0,
+              0,
+              0,
+              1
+            ],
+            "verticalPadding": 0,
+            "horizontalPadding": 0
+          },
+          {
+            "id": "mark4",
+            "type": "path",
+            "x": 259.9944,
+            "y": 389.99159999999995,
+            "rotation": 0,
+            "rotationPoint": "CC",
+            "fillColor": [
+              0,
+              1,
+              0,
+              0
+            ],
+            "strokeColor": "none",
+            "path": "M0 0 L10.0076 0 L10.0076 10.0076 L9.206992 10.0076 L9.206992 0.800608 L0 0.800608 Z"
+          },
+          {
+            "id": "mark5",
+            "type": "rectangle",
+            "x": 264.5918,
+            "y": 214.99829999999997,
+            "width": 10.0076,
+            "height": 10.0076,
+            "rotation": 0,
+            "rotationPoint": "CC",
+            "fillColor": [
+              0,
+              1,
+              0,
+              0
+            ]
+          }
+        ],
+        "placementHash": {
+        }
+      }
+    ]
+  }
